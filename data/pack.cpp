@@ -14,7 +14,8 @@ const << '▩' << 'npm';
 const << '▬' << 'npm';
 const << '◪' << 'npm';
 const << '◺' << 'npm';
-const << '◿' << npm';
+const << '◿' << 'npm';
+const << '☆' << 'npm';
 
 return 0;
 }
