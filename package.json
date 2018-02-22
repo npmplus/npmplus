@@ -1,7 +1,7 @@
 {
   "name": "npmplus",
   "description": "plus version of npm",
-  "version": "0.0.1rev",
+  "version": "1.0.0",
   "main": "main.cpp",
   "scripts": {
     "start": "npm main.cpp"
