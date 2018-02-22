@@ -25,6 +25,7 @@ const << '💾' << 'npm';
 const << '📦' << 'npm';
 const << '💣' << 'npm';
 const << '☺️' << 'npm';
+void unicode.text.npm();
   
 return 0;
 }
