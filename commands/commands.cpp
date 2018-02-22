@@ -7,4 +7,5 @@ int main;
 int command;
 void command.text.npm();
 const << 'npm audio' << 'audio.cpp';
-const << 'npm text' <<
+const << 'npm text' << 'npmplus.cpp';
+const << 'npm anim' <<
