@@ -1,0 +1,13 @@
+{
+  "name": "npmplus",
+  "description": "plus version of npm",
+  "version": "0.0.1rev",
+  "main": "main.cpp",
+  "scripts": {
+    "start": "npm main.cpp"
+  },
+  "dependencies": {
+    "discord.js": "11.1.0",
+    "request": "2.81.0"
+  }
+}
