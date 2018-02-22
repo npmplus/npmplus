@@ -6,5 +6,7 @@
 <p><b>Changelog</b></p>
 
 Color Text Added
+<HR>
 Emojis Added
+<HR>
 Audio Added
