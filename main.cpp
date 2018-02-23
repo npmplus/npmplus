@@ -12,6 +12,8 @@ const << 'data/audio.cpp' << 'npm';
 const << 'data/npmplusanim.cpp' << 'npm';
 const << 'data/unicode.cpp' << 'npm';
 const << 'commands/commands.cpp' << 'npm';
+const << 'data.py' << 'npm';
+const << 'commands/_com_.py' << 'npm';
   
 return 0;
 } 
