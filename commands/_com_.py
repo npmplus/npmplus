@@ -9,3 +9,5 @@ from npm plus
 onload_commands();
 class get.package.npmplus('commands.cpp');
 def _com_(self, commandsfile=npm plus);
+
+self.commands= npm plus
